@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**uatuko/uatuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a techie 👨‍💻 creating simpler solutions to complex problems.
 
-Here are some ideas to get you started:
+I’m passionate about Open Source and have contributed to many open source projects over the years. I’m the author of [gRPCxx — An ultra fast gRPC server implementation in C++](https://github.com/uatuko/grpcxx), [Sentium — Global scale fine-grained access control system that’s simple and flexible](https://github.com/uatuko/sentium) and [nisos — A real-time operating system with a corporative kernel](https://github.com/uatuko/nisos), to name a few of my open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professionally, I’m a CTO with over 10 years’ of experience in leading and scaling cross-functional teams in multiple startups to create innovative products.
+
+I blog about my experiences [here](https://u-a.medium.com) and regularly post content on [LinkedIn](https://www.linkedin.com/in/uatuko/).
+
+
+### 📫 How to reach me
+
+Get in touch with me on [LinkedIn](https://www.linkedin.com/in/uatuko/) and follow me to get updates.
