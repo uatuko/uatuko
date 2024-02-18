@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I’m a techie 👨‍💻 creating simpler solutions to complex problems.
+I’m a techie 👨‍💻 creating simple solutions to complex problems.
 
 I’m passionate about Open Source and have contributed to many open source projects over the years. I’m the author of [gRPCxx — An ultra fast gRPC server implementation in C++](https://github.com/uatuko/grpcxx), [Sentium — Global scale fine-grained access control system that’s simple and flexible](https://github.com/uatuko/sentium) and [nisos — A real-time operating system with a corporative kernel](https://github.com/uatuko/nisos), to name a few of my open source projects.
 
