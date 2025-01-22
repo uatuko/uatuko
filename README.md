@@ -6,7 +6,7 @@ I’m passionate about Open Source and have contributed to many open source proj
 
 Professionally, I’m a CTO with over 10 years’ of experience in leading and scaling cross-functional teams in multiple startups to create innovative products.
 
-I blog about my experiences [here](https://u-a.medium.com) and regularly post content on [LinkedIn](https://www.linkedin.com/in/uatuko/).
+I blog about my experiences [here](https://uatuko.medium.com) and regularly post content on [LinkedIn](https://www.linkedin.com/in/uatuko/).
 
 
 ### 📫 How to reach me
