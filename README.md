@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm the Founder of [Felk](https://felk.ai), where we're redefining how businesses protect their web infrastructure in an increasingly complex threat landscape.
+I'm the Founder of [Felk](https://felk.com), where we're redefining how businesses protect their web infrastructure in an increasingly complex threat landscape.
 
 I've spent my career solving hard technical problems – building simple, elegant systems that scale. Over a  decade as a CTO, I've led and grown cross-functional engineering teams across multiple startups, designing and delivering the software infrastructure behind fast-growing products. My philosophy has always been that the best solutions are fast, thoughtfully designed, and quietly dependable.
 
